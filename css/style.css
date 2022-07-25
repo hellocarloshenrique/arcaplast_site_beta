@@ -69,6 +69,8 @@ body {
 
 .home .header .nav ul li .logo {
     margin: 0 30px;
+    width: 150px;
+    height: 150px;
 }
 
 /******************* 
